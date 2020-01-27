@@ -1,0 +1,122 @@
+{
+  "cartId": "6626353023632707967",
+  "cartType": "SHOPPING",
+  "businessChannel": "DIGITAL_LOWESDESKTOP",
+  "tenantType": "LOWES",
+  "zippedInStore": {
+    "storeId": "6919",
+    "name": "Test N.Charleston Lowe's",
+    "address": {
+      "addressGroupId": "e3df6e52-8922-4e40-a065-f97a49ac8417",
+      "addressLine1": "7555 NORTHWOOD BLVD",
+      "city": "NORTH CHARLESTON",
+      "state": "SC",
+      "zipCode": "29406",
+      "country": "US",
+      "phone": "(508) 643-1044"
+    }
+  },
+  "cartItems": [
+    {
+      "cartItemId": "ba4da145-57b8-4916-aaf1-48fc7580a6ce",
+      "fulfillments": [
+        {
+          "fulfillmentId": "2",
+          "fulfillmentType": "PICKUP",
+          "fulfillmentNode": "6919",
+          "shippingOptions": [],
+          "availabilityCount": 0,
+          "availabilityInDays": 10,
+          "availableStatus": true,
+          "selected": true,
+          "availableQty": 501
+        },
+        {
+          "fulfillmentId": "1",
+          "fulfillmentType": "PARCEL",
+          "fulfillmentNode": "6919",
+          "availabilityCount": 0,
+          "availabilityInDays": 10,
+          "availableStatus": true,
+          "selected": false,
+          "availableQty": 866
+        },
+        {
+          "fulfillmentId": "3",
+          "fulfillmentType": "TRUCK",
+          "fulfillmentNode": "6919",
+          "availabilityCount": 0,
+          "availabilityInDays": 10,
+          "availableStatus": true,
+          "selected": false,
+          "availableQty": 683
+        }
+      ],
+      "itemStockType": "STK",
+      "promotions": [],
+      "quantity": 1,
+      "minQty": 0,
+      "mulQty": 0,
+      "maxQty": 0,
+      "additionalServices": {},
+      "itemSummary": {
+        "discount": 0,
+        "markDownSaving": 0,
+        "subTotal": 3.95,
+        "salesTax": 0.36,
+        "fees": [],
+        "totalPrice": 4.31,
+        "mileageFee": 0
+      },
+      "priceInfo": {
+        "prices": [
+          {
+            "type": "RETAIL",
+            "value": 3.95
+          },
+          {
+            "type": "FINAL",
+            "value": 3.95
+          }
+        ],
+        "priceType": 1
+      },
+      "createdTime": "2020-01-24T06:01:12.498Z",
+      "isFreeGift": false,
+      "productInfo": {
+        "productDescription": "Bolden Matte Black 1-Handle Pull-down Kitchen Faucet",
+        "omniItemId": "3338508",
+        "itemNumber": "953731",
+        "model": "KPF-1610MB",
+        "itemType": "SOS",
+        "vendor": "41765",
+        "weight": 7.5,
+        "sosFreightType": "Pre-Paid",
+        "pdUrl": "/pd/Kraus-Bolden-Matte-Black-1-Handle-Pull-down-Kitchen-Faucet/1000336983",
+        "imageUrl": "/product/converted/846639/846639028714sm.jpg"
+      }
+    }
+  ],
+  "itemCount": 0,
+  "cartSummary": {
+    "subTotal": 3.95,
+    "grandTotal": 4.31,
+    "totalShippingCharge": 0,
+    "totalShippingTax": 0,
+    "totalSalesTax": 0.36,
+    "totalSaving": 0,
+    "totalMarkDownSaving": 0,
+    "totalFees": 0,
+    "mileageFee": 0,
+    "fees": [],
+    "freeShippingPromoProximity": 0,
+    "remainingOrderBalance": 4.31
+  },
+  "promotions": [],
+  "testOrder": false,
+  "sourceId": "DIGITAL_LOWESDESKTOP-6626353023632707967",
+  "tcAccepted": false,
+  "addressList": [],
+  "detailId": "6626353023632707967",
+  "initiatedCheckout": false
+}

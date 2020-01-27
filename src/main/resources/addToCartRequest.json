@@ -1,0 +1,14 @@
+{
+  "cartItems": [
+    {
+      "quantity": 1,
+      "productInfo": {
+        "itemType": "RGL",
+        "omniItemId": "999930538"
+      }
+    }
+  ],
+  "zippedInStore": {
+    "storeId": "6919"
+  }
+}
